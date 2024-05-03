@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly.express
+requests
+bs4
+csv
